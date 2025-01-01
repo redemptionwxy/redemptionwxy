@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm a [your job title] based in [your location].
 - 🔭 I’m currently working on Secure and Resilient Microgrid.
 - 👯 I’m looking to work/collaborate on Cybersecurity.
 - 💬 My Websites: [UK Live PV Generation](https://www.pvcardiff.top/)
-- 📫 How to reach me: [Here](https://www.linkedin.com/in/xueyi-wang-00ab11195/).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xueyi-wang-00ab11195/).
