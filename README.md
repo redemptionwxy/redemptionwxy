@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Xueyi Wang 👋
 
-Welcome to my GitHub profile! I'm a [your job title] based in [your location].
+Welcome to my GitHub profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=redemptionwxy&style=flat-square)
 
