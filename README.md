@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=redemptionwxy&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=redemptionwxy&style=for-the-badge)
 
 ## About Me
 - 🌱 I’m currently a Ph.D. Researcher at Cardiff University.
