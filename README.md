@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Xueyi Wang 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=redemptionwxy&style=for-the-badge&color=brightgreen)
 
