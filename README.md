@@ -22,7 +22,11 @@ Welcome to my GitHub!
 
 ## About Me
 - 🌱 I’m currently a Ph.D. Researcher at Cardiff University.
-- 🔭 I’m currently working on Secure and Resilient Microgrid.
-- 👯 I’m looking to work/collaborate on Cybersecurity.
+- 🔭 Research Interests: Secure and resilient industrial control systems (ICS), Smart microgrids, and Explainable AI for security.
+- 👯 🔬 Research Topics: 
+1. Secure & resilient ICS and smart microgrids — resilience modelling, fault diagnosis, and AI-driven defence for critical infrastructure
+2. AI for offensive/defensive security — automated attack-path discovery in IIoT (deep reinforcement learning) and side-channel attacks over videoconferencing
+3. Explainable AI (XAI) for security — model-reliability evaluation and feature-importance analysis for ML used in high-stakes settings
+4. Zero-day ransomware detection — early-stage detection from hardware-level indicators, across IT and OT
 - 💬 My Websites: [Personal Website](https://redemptionwxy.github.io/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xueyi-wang-00ab11195/).
